@@ -1,6 +1,8 @@
 # EdgeMatchingPuzzle
 
-after my course in evolutionary algorithm , i want to use different methods to solve the puzzle 
+after my course in evolutionary algorithm , i want to use different methods to solve the puzzle.
+
+We are making use of genetic operators that are selection  , mutation , crossover ,reproduction ,  evolution , etc
 The java classes used are : 
 
 PuzzleBoard: This class would represent the puzzle board and contain methods for initializing the board, mutating the tiles, and evaluating the fitness of a given configuration.
